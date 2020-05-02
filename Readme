@@ -5,9 +5,12 @@ npm install express
 npm install ejs
 npm install socket.io
 do install all node modules
+dont download all files download only views and app.js
+package-json and one more will automatically downloaded while install all node module 
 otherwise it will not work 
 if any queries pls let me now
 message me 7977318133
+feel free to contact
 
 
 ________________________________ Thank's a Lot _________________________________________________________________________
